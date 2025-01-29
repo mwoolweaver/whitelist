@@ -114,6 +114,9 @@ api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
 
+# NowTV UK - AppleTV
+dpm.demdex.net
+
 # Nvidia updates
 ota-downloads.nvidia.com
 
@@ -188,6 +191,7 @@ weeklyad.target.com.edgesuite.net
 track.ucas.com
 
 # URL shorteners
+t.ly
 adf.ly
 www.adf.ly
 bit.ly
